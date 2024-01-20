@@ -7,7 +7,7 @@
   - pippython-dotenv
   - SQLite3SQL (or other supported database
   - Redis (optional, for Celery result backend)
-  - 
+    
 ### Installation:
   - Clone the repository
   - Create and activate a virtual environment
@@ -24,5 +24,5 @@
     
 ### Additional Resources:
 
-Django: https://docs.djangoproject.com/en/5.0/
-Celery: https://docs.celeryq.dev/
+- Django: https://docs.djangoproject.com/en/5.0/
+- Celery: https://docs.celeryq.dev/
